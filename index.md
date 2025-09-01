@@ -1,5 +1,3 @@
-![Amit Thakuri](/assets/dp.jpeg)
-
 **Business IT Graduate** | **Cybersecurity Enthusiast** | **IT Support** | **Network and System Administration**
 
 ---
