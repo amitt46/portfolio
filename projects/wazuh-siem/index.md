@@ -1,7 +1,5 @@
 # Wazuh SIEM Implementation
 
-<img src="../../assets/dp.jpeg" alt="Wazuh Logo" width="150" style="display:block;margin:auto;">
-
 ---
 
 ## 🛡 Project Overview
