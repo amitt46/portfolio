@@ -69,7 +69,7 @@ The goal was to monitor and secure endpoints, detect threats, and generate actio
 ![Security Events](./images/wazuh_security_events.png)
 
 ### Email Alert Example
-![Email Alert](./images/wazuh_email_alert.png)
+![Email Alert](./images/wazuh_email_alert.jpg)
 
 ---
 
