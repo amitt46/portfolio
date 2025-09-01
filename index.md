@@ -10,7 +10,13 @@ I aim to apply my technical skills and proactive mindset to safeguard digital as
 ---
 
 ## 🛡 Cybersecurity Projects
-- **Wazuh SIEM Implementation**: Integrated SIEM (Wazuh), Pi-hole DNS filtering, and Windows/Linux servers for monitoring and security testing.  
+
+### Wazuh SIEM Implementation
+Configured a **SIEM environment** integrating Wazuh with Windows/Linux endpoints, VirusTotal for malware detection, and automated email alerts based on risk level.  
+This project demonstrates **log analysis, threat detection, and SOC monitoring skills**.  
+
+➡️ [View Full Report](./projects/wazuh-siem/index.md)
+
 - **Active Directory Lab**: Deployed ADDS, DHCP, WDS with Group Policies for endpoint security.  
 
 ---
