@@ -10,3 +10,6 @@ description: >
 show_downloads: false
 google_analytics: G-9R8QKEJXE9
 theme: jekyll-theme-cayman
+sass:
+  style: compressed
+
