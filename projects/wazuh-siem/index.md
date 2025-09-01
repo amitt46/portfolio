@@ -46,11 +46,10 @@ The goal was to monitor and secure endpoints, detect threats, and generate actio
 
 ## ⚙️ Implementation Details
 
-1. **Wazuh Server Setup**
-   - Installed on **Ubuntu WSL**.
-   - Configured Elasticsearch, Kibana, and Wazuh API.
+1. **Wazuh Server Setup** all-in-one
+   - Installed on **Ubuntu WSL** within the WIN11 host machine.
 2. **Agent Deployment**
-   - Windows 11 host and Kali Linux VM connected as agents.
+   - Windows 11 host, Windows Server 2025 VM and Kali Linux VM connected as agents.
    - Configured log forwarding and monitoring policies.
 3. **VirusTotal Integration**
    - Enabled malware detection for all file events.
