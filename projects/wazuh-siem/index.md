@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wazuh SIEM Project
+description: Detailed report of Wazuh SIEM implementation
+---
+
 # Wazuh SIEM Implementation
 
 ---
